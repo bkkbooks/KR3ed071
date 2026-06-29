@@ -1,0 +1,595 @@
+canonical_identifier: bkk:krp/KR3ed071/v1
+canonical_location: https://kanripo.org/bkk/KR3ed071/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 救生集
+  identifiers:
+    krp: KR3ed071
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed071.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed071_000.yaml, hash: 'sha256:bda4e7be9a9fda8502f89d9744786c1c649104f6c5abee52a69a6cd0c69fe571'}
+  - {seq: 1, filename: KR3ed071_001.yaml, hash: 'sha256:5a13f83023b96f188e706fc6af096082aa0326ee85af732352d5244caa42dead'}
+  - {seq: 2, filename: KR3ed071_002.yaml, hash: 'sha256:61e0b1e102b1260fe55c61519a99830e01475a1756d6dacd60d534461a841561'}
+  - {seq: 3, filename: KR3ed071_003.yaml, hash: 'sha256:4a7fdedd1c8f1b9787813e54ef7839c30db2f83b8a2456102274a2337c014cdd'}
+  - {seq: 4, filename: KR3ed071_004.yaml, hash: 'sha256:9d4b9cb283cabad64ddd1bdaf39114b78718892bad1b82627367cca321ae836b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed071_000.markers.yaml, hash: 'sha256:ce09d1a0e3b50bb26b751cc5c6bf0828e75add6d21f4fee8264cd3555a7e91c5'}
+  - {seq: 1, role: markers, filename: assets/KR3ed071_001.markers.yaml, hash: 'sha256:1cf8dffa91e43d763281d952fc16239d4295424cccea785de3dfd46cbc5846fe'}
+  - {seq: 2, role: markers, filename: assets/KR3ed071_002.markers.yaml, hash: 'sha256:811bc289d85145e763a3444a07374d2b2eade1e7573627650e56e9aa20c6d5b3'}
+  - {seq: 3, role: markers, filename: assets/KR3ed071_003.markers.yaml, hash: 'sha256:95935b3c661eef373b47e599315fa1fae0d79c3aa6ad0e5a777bf924b8726e82'}
+  - {seq: 4, role: markers, filename: assets/KR3ed071_004.markers.yaml, hash: 'sha256:ee701dce93a62f03b90cd91c261720dc3c42210ab3806a1100993f1a5597c138'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed071_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 405
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 29499
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 2760
+  label: 急救門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d3
+    span:
+    - body
+    - 2760
+    - 3784
+  label: 感冒門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d4
+    span:
+    - body
+    - 3784
+    - 6230
+  label: 瘟疫門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d5
+    span:
+    - body
+    - 6230
+    - 9608
+  label: 傷寒門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d6
+    span:
+    - body
+    - 9608
+    - 11082
+  label: 中寒門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d7
+    span:
+    - body
+    - 11082
+    - 14514
+  label: 中風門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d8
+    span:
+    - body
+    - 14514
+    - 16634
+  label: 風濕痿痹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d9
+    span:
+    - body
+    - 16634
+    - 17364
+  label: 中暑門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d10
+    span:
+    - body
+    - 17364
+    - 19127
+  label: 霍亂門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d11
+    span:
+    - body
+    - 19127
+    - 22208
+  label: 氣痛門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d12
+    span:
+    - body
+    - 22208
+    - 23603
+  label: 泄瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d13
+    span:
+    - body
+    - 23603
+    - 26328
+  label: 痢疾門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed071_jc_001-d3d14
+    span:
+    - body
+    - 26328
+    - 29499
+  label: 瘧疾門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 27477
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 1424
+  label: 齒牙門附口舌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d3
+    span:
+    - body
+    - 1424
+    - 1993
+  label: 口瘡舌病門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d4
+    span:
+    - body
+    - 1993
+    - 3767
+  label: 耳鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d5
+    span:
+    - body
+    - 3767
+    - 6139
+  label: 眼目門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d6
+    span:
+    - body
+    - 6139
+    - 8652
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d7
+    span:
+    - body
+    - 8652
+    - 9315
+  label: 頭痛門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d8
+    span:
+    - body
+    - 9315
+    - 11259
+  label: 噎膈翻胃門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d9
+    span:
+    - body
+    - 11259
+    - 11453
+  label: 呃逆門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d10
+    span:
+    - body
+    - 11453
+    - 13176
+  label: 咳嗽門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d11
+    span:
+    - body
+    - 13176
+    - 15418
+  label: 血症門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d12
+    span:
+    - body
+    - 15418
+    - 15586
+  label: 嘔吐門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d13
+    span:
+    - body
+    - 15586
+    - 17754
+  label: 脹滿腫蠱門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d14
+    span:
+    - body
+    - 17754
+    - 18591
+  label: 腰痛門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d15
+    span:
+    - body
+    - 18591
+    - 20209
+  label: 黃疸門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d16
+    span:
+    - body
+    - 20209
+    - 22193
+  label: 痞積門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d17
+    span:
+    - body
+    - 22193
+    - 22848
+  label: 消渴汗發門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed071_jc_002-d4d18
+    span:
+    - body
+    - 22848
+    - 27477
+  label: 二便門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed071_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 28070
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed071_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 10587
+  label: 婦人門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed071_jc_003-d5d3
+    span:
+    - body
+    - 10587
+    - 28070
+  label: 小兒門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 34115
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 15050
+  label: 通治諸病門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d3
+    span:
+    - body
+    - 15050
+    - 23147
+  label: 瘡毒門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d4
+    span:
+    - body
+    - 23147
+    - 23280
+  label: 傷損門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d5
+    span:
+    - body
+    - 23280
+    - 23642
+  label: 腳膝門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d6
+    span:
+    - body
+    - 23642
+    - 24314
+  label: 風痹門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d7
+    span:
+    - body
+    - 24314
+    - 24436
+  label: 汗門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d8
+    span:
+    - body
+    - 24436
+    - 24625
+  label: 消渴門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d9
+    span:
+    - body
+    - 24625
+    - 25080
+  label: 耳疾門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d10
+    span:
+    - body
+    - 25080
+    - 25867
+  label: 眼病門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d11
+    span:
+    - body
+    - 25867
+    - 26285
+  label: 唇齒門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d12
+    span:
+    - body
+    - 26285
+    - 26764
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d13
+    span:
+    - body
+    - 26764
+    - 27355
+  label: 鬚髮門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d14
+    span:
+    - body
+    - 27355
+    - 27770
+  label: 諸蟲門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d15
+    span:
+    - body
+    - 27770
+    - 27926
+  label: 遺精淋濁門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d16
+    span:
+    - body
+    - 27926
+    - 28194
+  label: 疝氣門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d17
+    span:
+    - body
+    - 28194
+    - 28386
+  label: 二便門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d18
+    span:
+    - body
+    - 28386
+    - 28736
+  label: 痔漏門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d19
+    span:
+    - body
+    - 28736
+    - 31555
+  label: 婦人門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed071_jc_004-d6d20
+    span:
+    - body
+    - 31555
+    - 34115
+  label: 小兒門
+  type: section
+  level: 2
+hash: sha256:45a9bc225ad2c8af431465634443b0dfd7c951c34c2b34b86357e6d831d59e0b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
